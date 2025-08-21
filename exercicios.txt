@@ -1,0 +1,7 @@
+exercicio 1 crie um arraylist de integer, adicione 10 numeros e exiba apenas os pares
+
+exercicio 2 Crie um Hashset de string. adicione 5 nomes verifique se um nome especifico esta no conjunto e remova-o. exiba o conjunto atualizado
+
+exercicio 3 crie um map<String, Integer> para armazenar produtos e preços imprima todos os produtos acima de 10
+
+exercicio 4 Crie um arraylist de nomes e remova todos os que começam com a letra A
